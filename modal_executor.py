@@ -31,6 +31,7 @@ image = (
         "pandas",
         "requests",
         "matplotlib",
+        "fastapi[standard]",
     )
 )
 
